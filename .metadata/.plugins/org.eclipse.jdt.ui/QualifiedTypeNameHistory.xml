@@ -2,8 +2,12 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.Character"/>
     <fullyQualifiedTypeName name="java.lang.Short"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="point.one.Persona"/>
     <fullyQualifiedTypeName name="point.three.Coche"/>
+    <fullyQualifiedTypeName name="point.five.Calculadora"/>
+    <fullyQualifiedTypeName name="point.seven.Calculadora"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="point.nine.DiscoRigido"/>
 </qualifiedTypeNameHistroy>
