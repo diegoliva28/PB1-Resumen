@@ -7,7 +7,20 @@
     <fullyQualifiedTypeName name="point.five.Calculadora"/>
     <fullyQualifiedTypeName name="point.seven.Calculadora"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="point.nine.DiscoRigido"/>
+    <fullyQualifiedTypeName name="point.one.Calculadora"/>
+    <fullyQualifiedTypeName name="point.two.Calculadora"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.System.Logger"/>
+    <fullyQualifiedTypeName name="point.four.Nota"/>
+    <fullyQualifiedTypeName name="java.awt.Point"/>
+    <fullyQualifiedTypeName name="point.five.Punto"/>
+    <fullyQualifiedTypeName name="point.six.Cuenta"/>
+    <fullyQualifiedTypeName name="point.seven.Cubo"/>
+    <fullyQualifiedTypeName name="point.eight.Cerradura"/>
+    <fullyQualifiedTypeName name="point.nine.Alarma"/>
+    <fullyQualifiedTypeName name="point.ten.PartidoDeTenis"/>
+    <fullyQualifiedTypeName name="point.Eleven.Persona"/>
+    <fullyQualifiedTypeName name="point.thirteen.Ascensor"/>
 </qualifiedTypeNameHistroy>
