@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.Character"/>
     <fullyQualifiedTypeName name="java.lang.Short"/>
     <fullyQualifiedTypeName name="point.one.Persona"/>
     <fullyQualifiedTypeName name="point.three.Coche"/>
     <fullyQualifiedTypeName name="point.five.Calculadora"/>
     <fullyQualifiedTypeName name="point.seven.Calculadora"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="point.nine.DiscoRigido"/>
     <fullyQualifiedTypeName name="point.one.Calculadora"/>
     <fullyQualifiedTypeName name="point.two.Calculadora"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.lang.System.Logger"/>
     <fullyQualifiedTypeName name="point.four.Nota"/>
     <fullyQualifiedTypeName name="java.awt.Point"/>
@@ -23,4 +20,8 @@
     <fullyQualifiedTypeName name="point.ten.PartidoDeTenis"/>
     <fullyQualifiedTypeName name="point.Eleven.Persona"/>
     <fullyQualifiedTypeName name="point.thirteen.Ascensor"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="point.three.Temperatura"/>
 </qualifiedTypeNameHistroy>
