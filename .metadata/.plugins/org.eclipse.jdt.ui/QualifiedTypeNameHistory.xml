@@ -8,7 +8,6 @@
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="point.nine.DiscoRigido"/>
     <fullyQualifiedTypeName name="point.one.Calculadora"/>
-    <fullyQualifiedTypeName name="point.two.Calculadora"/>
     <fullyQualifiedTypeName name="java.lang.System.Logger"/>
     <fullyQualifiedTypeName name="point.four.Nota"/>
     <fullyQualifiedTypeName name="java.awt.Point"/>
@@ -20,9 +19,19 @@
     <fullyQualifiedTypeName name="point.ten.PartidoDeTenis"/>
     <fullyQualifiedTypeName name="point.Eleven.Persona"/>
     <fullyQualifiedTypeName name="point.thirteen.Ascensor"/>
-    <fullyQualifiedTypeName name="java.lang.Character"/>
     <fullyQualifiedTypeName name="point.three.Temperatura"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="point.four.Distancia"/>
+    <fullyQualifiedTypeName name="java.lang.ThreadDeath"/>
+    <fullyQualifiedTypeName name="point.five.Motor"/>
+    <fullyQualifiedTypeName name="point.two.Calculadora"/>
+    <fullyQualifiedTypeName name="point.three.Calculadora"/>
+    <fullyQualifiedTypeName name="point.two.Tornillo"/>
+    <fullyQualifiedTypeName name="point.two.Destornillador"/>
+    <fullyQualifiedTypeName name="point.two.Tarugo"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="point.four.Persona"/>
+    <fullyQualifiedTypeName name="point.five.Cuenta"/>
+    <fullyQualifiedTypeName name="point.six.Auto"/>
 </qualifiedTypeNameHistroy>
