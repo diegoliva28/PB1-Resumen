@@ -7,7 +7,6 @@
     <fullyQualifiedTypeName name="point.seven.Calculadora"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="point.nine.DiscoRigido"/>
-    <fullyQualifiedTypeName name="point.one.Calculadora"/>
     <fullyQualifiedTypeName name="java.lang.System.Logger"/>
     <fullyQualifiedTypeName name="point.four.Nota"/>
     <fullyQualifiedTypeName name="java.awt.Point"/>
@@ -20,8 +19,6 @@
     <fullyQualifiedTypeName name="point.Eleven.Persona"/>
     <fullyQualifiedTypeName name="point.thirteen.Ascensor"/>
     <fullyQualifiedTypeName name="point.three.Temperatura"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="point.four.Distancia"/>
     <fullyQualifiedTypeName name="java.lang.ThreadDeath"/>
     <fullyQualifiedTypeName name="point.five.Motor"/>
@@ -34,4 +31,19 @@
     <fullyQualifiedTypeName name="point.four.Persona"/>
     <fullyQualifiedTypeName name="point.five.Cuenta"/>
     <fullyQualifiedTypeName name="point.six.Auto"/>
+    <fullyQualifiedTypeName name="point.one.Calculadora"/>
+    <fullyQualifiedTypeName name="point.two.Letra"/>
+    <fullyQualifiedTypeName name="point.two.EnumLetra"/>
+    <fullyQualifiedTypeName name="point.two.Dia.Dia"/>
+    <fullyQualifiedTypeName name="point.two.Temperatura.EnumTemperaturaMenu"/>
+    <fullyQualifiedTypeName name="javax.security.auth.kerberos.KerberosCredMessage"/>
+    <fullyQualifiedTypeName name="java.lang.Enum"/>
+    <fullyQualifiedTypeName name="point.two.distancia.EnumDistancia"/>
+    <fullyQualifiedTypeName name="point.two.distancia.Distancia"/>
+    <fullyQualifiedTypeName name="javax.naming.spi.ObjectFactoryBuilder"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="point.three.Cerradura"/>
+    <fullyQualifiedTypeName name="java.nio.file.spi.FileSystemProvider"/>
+    <fullyQualifiedTypeName name="point.three.EnumCerradura"/>
 </qualifiedTypeNameHistroy>
